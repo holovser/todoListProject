@@ -2,7 +2,7 @@ package fit.cvut.todoApp.service;
 
 
 import fit.cvut.todoApp.entity.TodoItem;
-import fit.cvut.todoApp.model.TodoData;
+//import fit.cvut.todoApp.model.TodoData;
 
 public interface TodoItemService {
 
